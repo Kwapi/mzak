@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bee99d1-1577-407d-9c9c-564cac68d508" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/plugins/.gitkeep" afterPath="$PROJECT_DIR$/content/plugins/.gitkeep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/.gitkeep" afterPath="$PROJECT_DIR$/content/themes/.gitkeep" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress" afterPath="$PROJECT_DIR$/wordpress" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-admin/images/align-center-2x.png" afterPath="$PROJECT_DIR$/wordpress/wp-admin/images/align-center-2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-admin/images/align-center.png" afterPath="$PROJECT_DIR$/wordpress/wp-admin/images/align-center.png" />
@@ -266,28 +262,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/images/playlist-video.png" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/images/playlist-video.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/images/video.png" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/skins/wordpress/images/video.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/wp-tinymce.js.gz" afterPath="$PROJECT_DIR$/wordpress/wp-includes/js/tinymce/wp-tinymce.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitmodules" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.wpignore" afterPath="$PROJECT_DIR$/.wpignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Capfile" afterPath="$PROJECT_DIR$/Capfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="$PROJECT_DIR$/LICENSE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.example.yml" afterPath="$PROJECT_DIR$/config/database.example.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy.rb" afterPath="$PROJECT_DIR$/config/deploy.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy/production.rb" afterPath="$PROJECT_DIR$/config/deploy/production.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy/staging.rb" afterPath="$PROJECT_DIR$/config/deploy/staging.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/prepare.sh" afterPath="$PROJECT_DIR$/config/prepare.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/slack.rb" afterPath="$PROJECT_DIR$/config/slack.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/templates/.htaccess.erb" afterPath="$PROJECT_DIR$/config/templates/.htaccess.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/templates/wp-config.php.erb" afterPath="$PROJECT_DIR$/config/templates/wp-config.php.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/capistrano/submodule_strategy.rb" afterPath="$PROJECT_DIR$/lib/capistrano/submodule_strategy.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/capistrano/tasks/cache.cap" afterPath="$PROJECT_DIR$/lib/capistrano/tasks/cache.cap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/capistrano/tasks/content.cap" afterPath="$PROJECT_DIR$/lib/capistrano/tasks/content.cap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/capistrano/tasks/db.cap" afterPath="$PROJECT_DIR$/lib/capistrano/tasks/db.cap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/capistrano/tasks/wp.cap" afterPath="$PROJECT_DIR$/lib/capistrano/tasks/wp.cap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/index.php" afterPath="$PROJECT_DIR$/wordpress/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/license.txt" afterPath="$PROJECT_DIR$/wordpress/license.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/readme.html" afterPath="$PROJECT_DIR$/wordpress/readme.html" />
@@ -1655,12 +1630,12 @@
       <option name="presentableId" value="Default" />
       <updated>1493935244591</updated>
       <workItem from="1493935245979" duration="2209000" />
-      <workItem from="1494196843799" duration="2330000" />
+      <workItem from="1494196843799" duration="2416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4539000" />
+    <option name="totallyTimeSpent" value="4625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="992" y="52" width="928" height="1028" extended-state="4" />
